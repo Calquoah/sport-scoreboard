@@ -34,14 +34,14 @@ function increaseGuestScoreTwo() {
 }
 
 function increaseGuestScoreThree() {
-    guestScore += 3
-    guestScoreEl.textContent = guestScore
+    guestScore += 3;
+    guestScoreEl.textContent = guestScore;
 }
 
 function reset() {
-   let resetStr = homeScore + guestScore
-   resetEl.textContent += resetStr
+   homeScore = 0;
+   guestScore = 0;
 
-   homeScoreEl.textContent = 0
-   guestScoreEl.textContent = 0
+   homeScoreEl.textContent = homeScore;
+   guestScoreEl.textContent = guestScore;
 }
