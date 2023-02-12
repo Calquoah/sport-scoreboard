@@ -1,0 +1,175 @@
+@font-face {
+    src: url(CursedTimerUlil-Aznm.ttf);
+    font-family: Cursed-Timer;
+}
+
+body {
+    margin: 0;
+    text-align: center;
+}
+
+#home-score {
+    border-radius: 10px;
+    background-color: #0a0001;
+    font-size: 90px;
+    font-family: Cursed-Timer;
+    color: #F94F6D;
+    width: 120px;
+    margin: 20px;
+    padding: 40px 15px 0px 15px;
+    width: 155px;
+    height: 120px;
+    left: 337px;
+    top: 125px;
+}
+
+#guest-score {
+    border-radius: 10px;
+    background-color: #0a0001;
+    font-size: 90px;
+    font-family: Cursed-Timer;
+    color: #F94F6D;
+    width: 120px;
+    margin: 20px;
+    padding: 40px 15px 0px 15px;
+    width: 155px;
+    height: 120px;
+    left: 337px;
+    top: 125px;
+}
+
+.reset-score {
+    display: flex;
+    flex-direction: column;
+    align-self: flex-end;
+}
+
+.container {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: #1B244A;
+    display: flex;
+    justify-content: space-around;
+    border-radius: 10px;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px 20px 50px; 
+}
+
+h3 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 36px;
+    color: whitesmoke;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    /*color: whitesmoke;
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: ;*/
+}
+
+button {
+    background: none;
+    border: 2px solid #9AABD8;
+    border-radius: 5px;
+    padding: 10px;
+    color: #9AABD8;
+    margin: 0 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*@font-face {
+    src: url(CursedTimerUlil-Aznm.ttf);
+    font-family: Cursed-Timer;
+}
+
+body {
+    margin: 0;
+}
+
+
+h3 {
+    padding: 5px;
+}
+
+h2 {
+    text-align: center;
+}
+
+button {
+    background: #1B244A;
+    border-radius: 25%;
+    border: 1px solid #9AABD8;
+    color: whitesmoke;
+}
+
+#count-el {
+    font-family: Cursed-Timer;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 90px;
+    /*font-size: 90px;
+    line-height: 127px;
+/* or 141%
+
+    text-align: center;
+
+    color: #F94F6D;
+}
+
+
+.container {
+    width: 400px;
+    height: auto;
+    display: flex;
+    justify-content: space-around;
+    border: 2px dotted black;
+    padding: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    background: #1B244A;
+    border-radius: 15px;
+}
+
+.home {
+    border: 2px dotted green;
+    text-align: center;
+    color: whitesmoke;
+    background: black;
+    border-radius: 10px;
+    padding: 0px 30px;
+}
+
+.guest {
+    border: 2px dotted red;
+    text-align: center;
+    color: whitesmoke;
+    background: black;
+    border-radius: 10px;
+    margin: 0px 20px;
+    padding: 0px 30px;
+}*/
